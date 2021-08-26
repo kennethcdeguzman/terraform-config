@@ -1,0 +1,3 @@
+module "applications" {
+  source = "./services"
+}
